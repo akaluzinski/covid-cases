@@ -1,4 +1,4 @@
-package eu.kaluzinski.springrestclient.config;
+package eu.kaluzinski.covid_rest_client.config;
 
 import org.springframework.boot.web.client.RestTemplateBuilder;
 import org.springframework.context.annotation.Bean;

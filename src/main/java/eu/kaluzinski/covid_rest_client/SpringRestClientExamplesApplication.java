@@ -1,4 +1,4 @@
-package eu.kaluzinski.springrestclient;
+package eu.kaluzinski.covid_rest_client;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
